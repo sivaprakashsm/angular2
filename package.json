@@ -1,0 +1,32 @@
+{
+  "name": "mytasklist",
+  "version": "1.0.0",
+  "description": "Simple",
+  "main": "server.js",
+  "scripts": {
+     "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "ejs": "^2.5.5",
+    "express": "^4.14.0",
+    "karma": "^1.5.0",
+    "mongojs": "^2.4.0",
+    "primeng": "^2.0.0",
+    "core-js": "^2.4.1",
+    "reflect-metadata": "^0.1.8",
+    "systemjs": "0.19.40",
+    "zone.js": "^0.7.2",
+
+    "mocha": "^2.4.5",
+        "should": "*",
+        "supertest": "^1.2.0",
+        "expect": "*",
+        "chai": "^3.5.0"
+  },
+  "devDependencies": {
+    "karma": "^1.5.0"
+  }
+}
